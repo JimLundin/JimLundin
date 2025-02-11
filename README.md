@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jim Lundin
 
-<!--
-**JimLundin/JimLundin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🌟 Solutions Architect specializing in AWS Cloud Architecture and Data Engineering
+🏗️ Building scalable cloud solutions and robust data pipelines
+🌱 Currently exploring Rust, Go, and Server-Side Swift
+💼 Contributing to European Banking Authority (EBA) DPM reporting standards
+📫 How to reach me: [Your preferred contact method]
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AWS Services
+- Lambda
+- API Gateway
+- DynamoDB
+- S3
+- And more...
+
+### Data Engineering
+![](https://img.shields.io/badge/Tools-Apache_Spark-informational?style=flat&logo=apache-spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Polars-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JimLundin&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimLundin&theme=dark)](https://git.io/streak-stats)
+
+## 🎯 Focus Areas
+- Cloud Architecture & AWS Solutions
+- Data Pipeline Development
+- Financial Sector Technology
+- API Development
+- Serverless Architecture
+
+## 🌱 Currently Learning
+- Rust
+- Go
+- Server-Side Swift
+
+---
+⭐️ From [JimLundin](https://github.com/JimLundin)
