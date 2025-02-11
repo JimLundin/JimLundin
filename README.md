@@ -5,7 +5,7 @@
 🏗️ Building scalable cloud solutions and robust data pipelines
 🌱 Currently exploring Rust, Go, and Server-Side Swift
 💼 Contributing to European Banking Authority (EBA) DPM reporting standards
-📫 How to reach me: [Your preferred contact method]
+📫 How to reach me: [jimeriklundin@gmail.com]
 
 ## 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
