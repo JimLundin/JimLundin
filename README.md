@@ -29,7 +29,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=JimLundin&show_icons=true&theme=radical)
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JimLundin&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JimLundin&theme=dark)](https://git.io/streak-stats)
 
 ## 🎯 Focus Areas
 - Cloud Architecture & AWS Solutions
